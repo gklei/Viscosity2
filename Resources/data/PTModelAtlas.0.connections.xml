@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>106</string>
+                <key>sprites</key>
+                <array>
+                    <string>105</string>
+                    <string>3293</string>
+                    <string>1551</string>
+                    <string>970</string>
+                    <string>910</string>
+                    <string>1735</string>
+                    <string>3938</string>
+                    <string>3963</string>
+                    <string>3977</string>
+                    <string>4067</string>
+                    <string>4055</string>
+                    <string>4048</string>
+                    <string>660</string>
+                    <string>4145</string>
+                    <string>4388</string>
+                    <string>1966</string>
+                    <string>1356</string>
+                    <string>1254</string>
+                    <string>673</string>
+                    <string>669</string>
+                    <string>1632</string>
+                    <string>283</string>
+                    <string>272</string>
+                    <string>3222</string>
+                    <string>734</string>
+                    <string>4561</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4719</string>
+                <key>sprites</key>
+                <array>
+                    <string>4718</string>
+                    <string>4785</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>
