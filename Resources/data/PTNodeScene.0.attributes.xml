@@ -7,7 +7,7 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>100</string>
+                <string>9612</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
                 <key>Name</key>
@@ -18,60 +18,12 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{105.000,-92.000}</string>
+                    <string>{201.000,153.000}</string>
                 </dict>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3404</string>
-                <key>className</key>
-                <string>PTNodeScene</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>World 10</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-298.000,99.000}</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>3522</string>
-                <key>className</key>
-                <string>PTNodeScene</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>World 11</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-310.000,-141.000}</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>3586</string>
-                <key>className</key>
-                <string>PTNodeScene</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>World 12</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-302.000,-39.000}</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4495</string>
+                <string>15178</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
                 <key>Name</key>
@@ -82,12 +34,12 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{104.000,59.000}</string>
+                    <string>{203.000,305.000}</string>
                 </dict>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4578</string>
+                <string>15292</string>
                 <key>className</key>
                 <string>PTNodeScene</string>
                 <key>Name</key>
@@ -98,7 +50,23 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{103.000,208.000}</string>
+                    <string>{204.000,469.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15767</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>World 4</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{203.000,605.000}</string>
                 </dict>
             </dict>
         </array>

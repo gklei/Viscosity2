@@ -13,14 +13,14 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>Untitled</string>
+                    <string>Player</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>
                     <key>id</key>
-                    <string>142</string>
+                    <string>8214</string>
                     <key>className</key>
-                    <string>PTModelPolygon</string>
+                    <string>PTModelCircle</string>
                     <key>Name</key>
                     <dict>
                         <key>value</key>
@@ -28,15 +28,13 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{-31.000000,-31.000000}</string>
-                        <string>{32.000000,-31.000000}</string>
-                        <string>{32.000000,31.000000}</string>
-                        <string>{-31.000000,31.000000}</string>
+                        <string>{0.000000,0.000000}</string>
+                        <string>{64.000000,0.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
                     <key>shapeType</key>
-                    <string>1</string>
+                    <string>2</string>
                 </dict>
                 <key>Game Over Delay</key>
                 <dict>
@@ -46,12 +44,7 @@
                 <key>Camera Shake</key>
                 <dict>
                     <key>value</key>
-                    <string>0.500000</string>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>value</key>
-                    <string>0.500000</string>
+                    <string>0.550000</string>
                 </dict>
                 <key>Purchase Method</key>
                 <dict>

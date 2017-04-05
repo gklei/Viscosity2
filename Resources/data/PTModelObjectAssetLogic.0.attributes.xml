@@ -7,7 +7,7 @@
         <array>
             <dict>
                 <key>id</key>
-                <string>225</string>
+                <string>9618</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -18,7 +18,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{255.000,150.000}</string>
+                    <string>{255.000,120.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -47,6 +47,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -113,11 +115,11 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>529</string>
+                <string>517</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>235</string>
+                <string>9620</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -128,7 +130,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{385.000,150.000}</string>
+                    <string>{385.000,120.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -157,6 +159,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -223,11 +227,11 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>530</string>
+                <string>518</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1702</string>
+                <string>9628</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -267,6 +271,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -285,10 +291,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -296,8 +298,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -309,10 +309,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -322,10 +318,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -333,8 +325,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -347,11 +337,11 @@
                     <string>kMultiply</string>
                 </dict>
                 <key>zDepth</key>
-                <string>531</string>
+                <string>519</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1706</string>
+                <string>9630</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -391,6 +381,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -409,10 +401,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -420,8 +408,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -433,10 +419,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -446,10 +428,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -457,8 +435,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -471,11 +447,11 @@
                     <string>kMultiply</string>
                 </dict>
                 <key>zDepth</key>
-                <string>533</string>
+                <string>520</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1710</string>
+                <string>9632</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -486,7 +462,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,1015.000}</string>
+                    <string>{320.000,1130.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -515,6 +491,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -533,10 +511,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -544,8 +518,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -557,10 +529,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -570,10 +538,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -581,8 +545,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -595,11 +557,11 @@
                     <string>kMultiply</string>
                 </dict>
                 <key>zDepth</key>
-                <string>535</string>
+                <string>521</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>1714</string>
+                <string>9634</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -639,6 +601,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -657,10 +621,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -668,8 +628,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -681,10 +639,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -694,10 +648,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -705,8 +655,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -719,11 +667,11 @@
                     <string>kMultiply</string>
                 </dict>
                 <key>zDepth</key>
-                <string>537</string>
+                <string>522</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3410</string>
+                <string>13316</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -734,12 +682,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{235.000,240.000}</string>
+                    <string>{255.000,120.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -750,6 +711,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -814,11 +777,11 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>502</string>
+                <string>506</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3412</string>
+                <string>13318</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -829,12 +792,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{365.000,240.000}</string>
+                    <string>{385.000,120.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -845,6 +821,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -909,11 +887,11 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>507</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3434</string>
+                <string>13326</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -925,11 +903,24 @@
                 <dict>
                     <key>value</key>
                     <string>{670.000,570.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,19.265}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -940,6 +931,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -1002,11 +995,11 @@
                     <string>kMultiply</string>
                 </dict>
                 <key>zDepth</key>
-                <string>523</string>
+                <string>508</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3436</string>
+                <string>13328</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -1018,11 +1011,24 @@
                 <dict>
                     <key>value</key>
                     <string>{-30.000,580.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,19.265}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1033,6 +1039,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -1095,11 +1103,11 @@
                     <string>kMultiply</string>
                 </dict>
                 <key>zDepth</key>
-                <string>524</string>
+                <string>509</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3438</string>
+                <string>13330</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -1110,12 +1118,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{320.000,1015.000}</string>
+                    <string>{320.000,1130.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{10.915,0.935}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1126,6 +1147,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -1188,11 +1211,11 @@
                     <string>kMultiply</string>
                 </dict>
                 <key>zDepth</key>
-                <string>525</string>
+                <string>510</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3440</string>
+                <string>13332</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -1204,11 +1227,24 @@
                 <dict>
                     <key>value</key>
                     <string>{310.000,460.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{10.915,0.935}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1219,6 +1255,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -1281,11 +1319,663 @@
                     <string>kMultiply</string>
                 </dict>
                 <key>zDepth</key>
-                <string>526</string>
+                <string>511</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3457</string>
+                <string>13459</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{255.000,120.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>-35.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>376</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kReplace</string>
+                </dict>
+                <key>zDepth</key>
+                <string>506</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13461</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{385.000,120.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>35.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>376</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kReplace</string>
+                </dict>
+                <key>zDepth</key>
+                <string>507</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13469</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{670.000,570.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,19.265}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-1.000,0.000}</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>508</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13471</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-30.000,580.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,19.265}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-1.000,0.000}</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>509</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13473</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1130.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{10.915,0.935}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-1.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>510</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13475</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{310.000,460.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{10.915,0.935}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-1.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>511</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13816</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -1296,12 +1986,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{40.000,650.000}</string>
+                    <string>{80.000,510.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,1.000}</string>
+                    <string>{1.225,0.217}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1317,17 +2020,19 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
+                    <string>{580.000,660.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -1335,6 +2040,8 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -1346,13 +2053,21 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
                     <key>value</key>
-                    <string>{-1.000,-1.000}</string>
+                    <string>{-10.000,15.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -1360,114 +2075,25 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>1552</string>
+                    <string>177</string>
                 </dict>
                 <key>Affect operation</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kMultiply</string>
+                    <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>528</string>
+                <string>523</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3461</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 3</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{600.000,650.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-1.000,-1.000}</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1552</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>529</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>3528</string>
+                <string>15182</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -1478,12 +2104,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{235.000,240.000}</string>
+                    <string>{255.000,120.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1494,11 +2133,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -1558,11 +2201,11 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>502</string>
+                <string>513</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3530</string>
+                <string>15184</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -1573,12 +2216,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{365.000,240.000}</string>
+                    <string>{385.000,120.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1589,11 +2245,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -1653,11 +2313,11 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>514</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3552</string>
+                <string>15192</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -1669,11 +2329,24 @@
                 <dict>
                     <key>value</key>
                     <string>{670.000,570.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,19.265}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1684,11 +2357,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -1724,6 +2401,890 @@
                     <key>value</key>
                     <string>{-1.000,0.000}</string>
                     <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>515</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15194</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-30.000,580.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,19.265}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-1.000,0.000}</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>516</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15196</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1130.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{10.915,0.935}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-1.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>517</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15198</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{310.000,460.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{10.915,0.935}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-1.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>518</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15296</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{255.000,120.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>-35.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>376</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kReplace</string>
+                </dict>
+                <key>zDepth</key>
+                <string>519</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15298</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{385.000,120.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>35.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>376</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kReplace</string>
+                </dict>
+                <key>zDepth</key>
+                <string>520</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15306</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{670.000,570.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,19.265}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-1.000,0.000}</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>521</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15308</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-30.000,580.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,19.265}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-1.000,0.000}</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>522</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15310</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1130.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{10.915,0.935}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-1.000}</string>
+                    <key>isXEmpty</key>
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
@@ -1750,7 +3311,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>3554</string>
+                <string>15312</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -1761,12 +3322,25 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{-30.000,580.000}</string>
+                    <string>{310.000,460.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,19.265}</string>
+                    <string>{10.915,0.935}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1777,11 +3351,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -1815,8 +3393,8 @@
                 <key>Linear Velocity Modifier</key>
                 <dict>
                     <key>value</key>
-                    <string>{-1.000,0.000}</string>
-                    <key>isYEmpty</key>
+                    <string>{0.000,-1.000}</string>
+                    <key>isXEmpty</key>
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
@@ -1843,193 +3421,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>3556</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,1015.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{10.915,0.935}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1008</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>525</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>3558</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{310.000,460.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{10.915,0.935}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1008</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>526</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>3592</string>
+                <string>15648</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -2040,7 +3432,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{235.000,240.000}</string>
+                    <string>{255.000,120.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
@@ -2056,6 +3448,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -2120,11 +3514,11 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>502</string>
+                <string>519</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3594</string>
+                <string>15650</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -2135,7 +3529,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{365.000,240.000}</string>
+                    <string>{385.000,120.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
@@ -2151,6 +3545,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -2215,11 +3611,11 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>520</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>3616</string>
+                <string>15658</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -2246,6 +3642,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -2286,6 +3684,196 @@
                     <key>value</key>
                     <string>{-1.000,0.000}</string>
                     <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>521</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15660</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-30.000,580.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,19.265}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-1.000,0.000}</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Angular Velocity Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Affected asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>1008</string>
+                </dict>
+                <key>Affect operation</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kMultiply</string>
+                </dict>
+                <key>zDepth</key>
+                <string>522</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15662</string>
+                <key>className</key>
+                <string>PTModelObjectAssetLogic</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Transform 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1130.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{10.915,0.935}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Position Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Rotation Modifier</key>
+                <dict>
+                    <key>useDefault</key>
+                    <string>0</string>
+                    <key>isEmpty</key>
+                    <string>1</string>
+                </dict>
+                <key>Scale Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>isXEmpty</key>
+                    <string>1</string>
+                    <key>isYEmpty</key>
+                    <string>1</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Linear Velocity Modifier</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-1.000}</string>
+                    <key>isXEmpty</key>
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
@@ -2312,7 +3900,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>3618</string>
+                <string>15664</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -2323,12 +3911,12 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{-30.000,580.000}</string>
+                    <string>{310.000,460.000}</string>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{1.000,19.265}</string>
+                    <string>{10.915,0.935}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2339,6 +3927,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -2377,8 +3967,8 @@
                 <key>Linear Velocity Modifier</key>
                 <dict>
                     <key>value</key>
-                    <string>{-1.000,0.000}</string>
-                    <key>isYEmpty</key>
+                    <string>{0.000,-1.000}</string>
+                    <key>isXEmpty</key>
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
@@ -2405,193 +3995,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>3620</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,1015.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{10.915,0.935}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1008</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>525</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>3622</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{310.000,460.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{10.915,0.935}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1008</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>526</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4501</string>
+                <string>15771</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -2602,7 +4006,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{255.000,150.000}</string>
+                    <string>{30.000,120.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -2631,11 +4035,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -2647,6 +4055,10 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -2654,6 +4066,8 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -2665,6 +4079,10 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -2676,6 +4094,10 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -2683,6 +4105,8 @@
                     <string>-35.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -2695,11 +4119,11 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>529</string>
+                <string>516</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4503</string>
+                <string>15773</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -2710,7 +4134,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{385.000,150.000}</string>
+                    <string>{160.000,120.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -2739,11 +4163,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -2755,6 +4183,10 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -2762,6 +4194,8 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -2773,6 +4207,10 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -2784,6 +4222,10 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -2791,6 +4233,8 @@
                     <string>35.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -2803,11 +4247,11 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>530</string>
+                <string>517</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4525</string>
+                <string>15781</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -2847,11 +4291,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -2863,6 +4311,10 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -2870,6 +4322,8 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -2881,6 +4335,10 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -2890,6 +4348,10 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -2897,6 +4359,8 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -2909,11 +4373,11 @@
                     <string>kMultiply</string>
                 </dict>
                 <key>zDepth</key>
-                <string>531</string>
+                <string>518</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4527</string>
+                <string>15783</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -2953,886 +4417,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
                     <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
                     <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-1.000,0.000}</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1008</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>532</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4529</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,1015.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{10.915,0.935}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1008</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>533</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4531</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{310.000,460.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{10.915,0.935}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1008</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>534</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4584</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{255.000,150.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>-35.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>376</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kReplace</string>
-                </dict>
-                <key>zDepth</key>
-                <string>529</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4586</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{385.000,150.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,1.000}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>35.000000</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>376</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kReplace</string>
-                </dict>
-                <key>zDepth</key>
-                <string>530</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4608</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{670.000,570.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,19.265}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-1.000,0.000}</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1008</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>531</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4610</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-30.000,580.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,19.265}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-1.000,0.000}</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1008</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>532</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4612</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,1015.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{10.915,0.935}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1008</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>533</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4614</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{310.000,460.000}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{10.915,0.935}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>1008</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>534</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4765</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-140.000,580.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,19.265}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -3905,7 +4491,7 @@
                 <key>Affected asset</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>4720</string>
+                    <string>1008</string>
                 </dict>
                 <key>Affect operation</key>
                 <dict>
@@ -3913,11 +4499,11 @@
                     <string>kMultiply</string>
                 </dict>
                 <key>zDepth</key>
-                <string>534</string>
+                <string>519</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4769</string>
+                <string>15785</string>
                 <key>className</key>
                 <string>PTModelObjectAssetLogic</string>
                 <key>Name</key>
@@ -3928,131 +4514,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{780.000,570.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{1.000,19.265}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{-1.000,0.000}</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>4720</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>532</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4773</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{340.000,-230.000}</string>
+                    <string>{320.000,1130.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -4081,6 +4543,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -4153,7 +4617,7 @@
                 <key>Affected asset</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>4720</string>
+                    <string>1008</string>
                 </dict>
                 <key>Affect operation</key>
                 <dict>
@@ -4161,131 +4625,7 @@
                     <string>kMultiply</string>
                 </dict>
                 <key>zDepth</key>
-                <string>538</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>4777</string>
-                <key>className</key>
-                <string>PTModelObjectAssetLogic</string>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Transform 2</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{320.000,1480.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{10.915,0.935}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Position Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Scale Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>isYEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Linear Velocity Modifier</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-1.000}</string>
-                    <key>isXEmpty</key>
-                    <string>1</string>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Angular Velocity Modifier</key>
-                <dict>
-                    <key>useDefault</key>
-                    <string>0</string>
-                    <key>isEmpty</key>
-                    <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Affected asset</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>4720</string>
-                </dict>
-                <key>Affect operation</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMultiply</string>
-                </dict>
-                <key>zDepth</key>
-                <string>536</string>
+                <string>520</string>
             </dict>
         </array>
     </dict>

@@ -18,7 +18,7 @@
                 <key>Version Number</key>
                 <dict>
                     <key>value</key>
-                    <string>0.1</string>
+                    <string>0.12</string>
                 </dict>
                 <key>Application Name</key>
                 <dict>
@@ -123,15 +123,17 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>4827</string>
+                <string>16134</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
                     <dict>
+                        <key>adMobBanner</key>
+                        <string>ca-app-pub-8897339726324828/8290893191</string>
                         <key>bundleID</key>
                         <string>com.incipia.viscosity</string>
                         <key>nameOnDevice</key>
-                        <string>Untitled</string>
+                        <string>Viscosity</string>
                         <key>shareMessageTemplate</key>
                         <string></string>
                         <key>reviewLink</key>
@@ -151,6 +153,8 @@
                     <dict>
                         <key>nameOnDevice</key>
                         <string>Untitled</string>
+                        <key>adMobBanner</key>
+                        <string>ca-app-pub-8897339726324828/3721092790</string>
                     </dict>
                     <key>Amazon App Store</key>
                     <dict>

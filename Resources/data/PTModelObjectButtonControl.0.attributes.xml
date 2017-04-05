@@ -19,24 +19,11 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,570.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{7.327,12.279}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -47,11 +34,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -81,8 +63,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>3</string>
@@ -1403,6 +1383,1843 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4649</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>5489</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6193</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6290</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6425</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6580</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6691</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6699</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6707</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7698</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7706</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>7714</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9591</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9599</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>9607</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>10273</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11803</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11906</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>12009</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>12272</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13153</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13161</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13169</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13290</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13415</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13444</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>13557</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>14060</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Block Touch</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>14112</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1469,11 +3286,11 @@
                     <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
-                <string>4649</string>
+                <string>14118</string>
                 <key>className</key>
                 <string>PTModelObjectButtonControl</string>
                 <key>Name</key>
@@ -1485,11 +3302,24 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,570.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{7.327,12.279}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1500,6 +3330,175 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>15878</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCharacterShootButton</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>2</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16018</string>
+                <key>className</key>
+                <string>PTModelObjectButtonControl</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Character Button</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,570.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{7.327,12.279}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -1531,7 +3530,7 @@
                     <string>0</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>2</string>
             </dict>
         </array>
     </dict>
