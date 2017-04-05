@@ -3891,16 +3891,6 @@
                     <key>value</key>
                     <string></string>
                 </dict>
-                <key>Speed</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Torque</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
             </dict>
             <dict>
                 <key>id</key>
@@ -3926,16 +3916,6 @@
                     <string>0</string>
                     <key>value</key>
                     <string></string>
-                </dict>
-                <key>Speed</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Torque</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
             </dict>
             <dict>

@@ -10,6 +10,7 @@
                 <string>106</string>
                 <key>sprites</key>
                 <array>
+                    <string>16225</string>
                     <string>14535</string>
                     <string>910</string>
                     <string>970</string>
@@ -28,12 +29,11 @@
                     <string>1966</string>
                     <string>7148</string>
                     <string>16031</string>
-                    <string>14666</string>
                     <string>14703</string>
-                    <string>3222</string>
+                    <string>14666</string>
                     <string>734</string>
+                    <string>3222</string>
                     <string>14432</string>
-                    <string>14414</string>
                     <string>14423</string>
                     <string>14447</string>
                     <string>14458</string>
@@ -43,6 +43,7 @@
                     <string>15021</string>
                     <string>15151</string>
                     <string>15162</string>
+                    <string>14414</string>
                     <string>14962</string>
                 </array>
             </dict>

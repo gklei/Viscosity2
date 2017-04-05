@@ -169,84 +169,41 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Time Warp</key>
                 <dict>
                     <key>value</key>
                     <string>1.200000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Game Speed Min</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Game Speed Max</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Speed Increase</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Friction</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Velocity Drag</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Bounce</key>
                 <dict>
                     <key>value</key>
                     <string>0.950000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Score Multiplier</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Game Direction</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Smooth</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Back Deletion Threshold</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Sides Deletion Threshold</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>key</key>
                 <string>PTPScreenScene 1</string>
@@ -300,84 +257,41 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Time Warp</key>
                 <dict>
                     <key>value</key>
                     <string>1.200000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Game Speed Min</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Game Speed Max</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Speed Increase</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Friction</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Velocity Drag</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Bounce</key>
                 <dict>
                     <key>value</key>
                     <string>0.950000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Score Multiplier</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Game Direction</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Smooth</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Back Deletion Threshold</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Sides Deletion Threshold</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>key</key>
                 <string>PTPScreenScene 3</string>
@@ -431,84 +345,41 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Time Warp</key>
                 <dict>
                     <key>value</key>
                     <string>1.200000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Game Speed Min</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Game Speed Max</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Speed Increase</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Friction</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Velocity Drag</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Bounce</key>
                 <dict>
                     <key>value</key>
                     <string>0.950000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Score Multiplier</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Game Direction</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Smooth</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Back Deletion Threshold</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Sides Deletion Threshold</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>key</key>
                 <string>PTPScreenScene 4</string>

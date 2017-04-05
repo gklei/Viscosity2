@@ -114,11 +114,6 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
                 <string>5</string>
             </dict>
@@ -850,11 +845,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>0</string>

@@ -1330,20 +1330,11 @@
                 <dict>
                     <key>value</key>
                     <string>100.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Speed</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Attraction Force</key>
                 <dict>
                     <key>value</key>
                     <string>5.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Play Mode</key>
                 <dict>
@@ -3061,24 +3052,11 @@
                 <dict>
                     <key>value</key>
                     <string>{200.000,710.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3141,24 +3119,11 @@
                 <dict>
                     <key>value</key>
                     <string>{200.000,710.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3250,11 +3215,6 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Search Radius</key>
                 <dict>
                     <key>value</key>
@@ -3337,29 +3297,15 @@
                     <key>value</key>
                     <string>1</string>
                 </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Search Radius</key>
                 <dict>
                     <key>value</key>
                     <string>100.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Speed</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Attraction Force</key>
                 <dict>
                     <key>value</key>
                     <string>5.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Play Mode</key>
                 <dict>
@@ -3500,29 +3446,15 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Search Radius</key>
                 <dict>
                     <key>value</key>
                     <string>100.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Speed</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Attraction Force</key>
                 <dict>
                     <key>value</key>
                     <string>5.000000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Play Mode</key>
                 <dict>

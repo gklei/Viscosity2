@@ -3142,27 +3142,13 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
                 <dict>
                     <key>animations</key>
                     <array/>
@@ -3185,11 +3171,6 @@
                     <string>0</string>
                     <key>selectedStringValue</key>
                     <string></string>
-                </dict>
-                <key>Block Touch</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Keyboard Key</key>
                 <dict>
@@ -3466,24 +3447,11 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,570.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{7.327,12.279}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3494,11 +3462,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>

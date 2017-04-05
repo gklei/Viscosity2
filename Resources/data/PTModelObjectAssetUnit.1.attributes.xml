@@ -74,15 +74,6 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -3071,15 +3062,6 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -3495,15 +3477,6 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -3587,15 +3560,6 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -3677,15 +3641,6 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -3767,15 +3722,6 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -3859,15 +3805,6 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Collision Type</key>
                 <dict>
@@ -3951,15 +3888,6 @@
                 <dict>
                     <key>value</key>
                     <string>{0.000,0.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Angular Velocity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Collision Type</key>
                 <dict>

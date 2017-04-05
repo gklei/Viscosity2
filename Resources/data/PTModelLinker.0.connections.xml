@@ -668,8 +668,6 @@
             <dict>
                 <key>id</key>
                 <string>9586</string>
-                <key>objectA</key>
-                <string>11604</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -758,8 +756,6 @@
             <dict>
                 <key>id</key>
                 <string>10172</string>
-                <key>objectB</key>
-                <string>11646</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -780,8 +776,6 @@
             <dict>
                 <key>id</key>
                 <string>10267</string>
-                <key>objectA</key>
-                <string>11630</string>
             </dict>
             <dict>
                 <key>id</key>

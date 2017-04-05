@@ -683,24 +683,11 @@
                 <dict>
                     <key>value</key>
                     <string>{255.000,120.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -793,24 +780,11 @@
                 <dict>
                     <key>value</key>
                     <string>{385.000,120.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -903,24 +877,11 @@
                 <dict>
                     <key>value</key>
                     <string>{670.000,570.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,19.265}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1011,24 +972,11 @@
                 <dict>
                     <key>value</key>
                     <string>{-30.000,580.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,19.265}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1119,24 +1067,11 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,1130.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{10.915,0.935}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1227,24 +1162,11 @@
                 <dict>
                     <key>value</key>
                     <string>{310.000,460.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{10.915,0.935}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1335,24 +1257,11 @@
                 <dict>
                     <key>value</key>
                     <string>{255.000,120.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1445,24 +1354,11 @@
                 <dict>
                     <key>value</key>
                     <string>{385.000,120.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1555,24 +1451,11 @@
                 <dict>
                     <key>value</key>
                     <string>{670.000,570.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,19.265}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1663,24 +1546,11 @@
                 <dict>
                     <key>value</key>
                     <string>{-30.000,580.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,19.265}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1771,24 +1641,11 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,1130.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{10.915,0.935}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1879,24 +1736,11 @@
                 <dict>
                     <key>value</key>
                     <string>{310.000,460.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{10.915,0.935}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2029,10 +1873,6 @@
                     <string>{580.000,660.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -2040,8 +1880,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -2053,10 +1891,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -2064,10 +1898,6 @@
                     <string>{-10.000,15.000}</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -2075,8 +1905,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -2140,8 +1968,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -2252,8 +2078,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -2364,8 +2188,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -2474,8 +2296,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -2584,8 +2404,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -2694,8 +2512,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -2804,8 +2620,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -2916,8 +2730,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -3028,8 +2840,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -3138,8 +2948,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -3248,8 +3056,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -3358,8 +3164,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -4042,8 +3846,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -4055,10 +3857,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -4066,8 +3864,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -4079,10 +3875,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -4094,10 +3886,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -4105,8 +3893,6 @@
                     <string>-35.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -4170,8 +3956,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -4183,10 +3967,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -4194,8 +3974,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -4207,10 +3985,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -4222,10 +3996,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -4233,8 +4003,6 @@
                     <string>35.000000</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -4298,8 +4066,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -4311,10 +4077,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -4322,8 +4084,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -4335,10 +4095,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -4348,10 +4104,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -4359,8 +4111,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -4424,8 +4174,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -4437,10 +4185,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -4448,8 +4192,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -4461,10 +4203,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -4474,10 +4212,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -4485,8 +4219,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>
@@ -4550,8 +4282,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -4563,10 +4293,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Rotation Modifier</key>
                 <dict>
@@ -4574,8 +4300,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale Modifier</key>
                 <dict>
@@ -4587,10 +4311,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Linear Velocity Modifier</key>
                 <dict>
@@ -4600,10 +4320,6 @@
                     <string>1</string>
                     <key>useDefault</key>
                     <string>0</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Angular Velocity Modifier</key>
                 <dict>
@@ -4611,8 +4327,6 @@
                     <string>0</string>
                     <key>isEmpty</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Affected asset</key>
                 <dict>

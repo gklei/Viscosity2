@@ -302,6 +302,14 @@
                     <string>16031</string>
                 </array>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>16224</string>
+                <key>sprites</key>
+                <array>
+                    <string>16225</string>
+                </array>
+            </dict>
         </array>
     </dict>
 </plist>

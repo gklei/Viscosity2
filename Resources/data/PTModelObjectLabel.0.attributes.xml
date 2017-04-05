@@ -19,24 +19,11 @@
                 <dict>
                     <key>value</key>
                     <string>{330.000,580.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -47,11 +34,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Action</key>
                 <dict>
@@ -138,15 +120,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -231,21 +209,6 @@
                     <key>selectedStringValue</key>
                     <string>2</string>
                 </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
                 <string>6</string>
                 <key>calculatedSize</key>
@@ -288,15 +251,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -381,21 +340,6 @@
                     <key>selectedStringValue</key>
                     <string>2</string>
                 </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Stick To Edge</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>zDepth</key>
                 <string>7</string>
                 <key>calculatedSize</key>
@@ -438,15 +382,11 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -531,22 +471,10 @@
                     <key>selectedStringValue</key>
                     <string>2</string>
                 </dict>
-                <key>Tracking</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
                     <string>1</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Autohide</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>8</string>
@@ -567,24 +495,11 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,345.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -696,24 +611,11 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,807.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -825,24 +727,11 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,1085.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -959,24 +848,11 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,345.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1088,24 +964,11 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,807.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1217,24 +1080,11 @@
                 <dict>
                     <key>value</key>
                     <string>{320.000,1085.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
-                </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1340,6 +1190,359 @@
             <dict>
                 <key>id</key>
                 <string>16113</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Default Font</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,345.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array>
+                        <dict>
+                            <key>state</key>
+                            <string>0</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                    <string>{0.667,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                        <dict>
+                            <key>state</key>
+                            <string>1</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.333,0.000}</string>
+                                    <string>{0.250,-0.250}</string>
+                                    <string>{1.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                    </array>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreDistance</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreBest</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Next</string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
+                <key>zDepth</key>
+                <string>6</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16114</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Default Font</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,807.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array>
+                        <dict>
+                            <key>state</key>
+                            <string>0</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                    <string>{0.667,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                        <dict>
+                            <key>state</key>
+                            <string>1</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.333,0.000}</string>
+                                    <string>{0.250,-0.250}</string>
+                                    <string>{1.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                    </array>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreDistance</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreBest</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Go Again</string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
+                <key>zDepth</key>
+                <string>7</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16115</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Default Font</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1085.000}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array>
+                        <dict>
+                            <key>state</key>
+                            <string>0</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                    <string>{0.667,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                        <dict>
+                            <key>state</key>
+                            <string>1</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.333,0.000}</string>
+                                    <string>{0.250,-0.250}</string>
+                                    <string>{1.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                    </array>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreDistance</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreBest</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Menu</string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>8</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16193</string>
                 <key>className</key>
                 <string>PTModelObjectLabel</string>
                 <key>Name</key>
@@ -1468,7 +1671,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>16114</string>
+                <string>16194</string>
                 <key>className</key>
                 <string>PTModelObjectLabel</string>
                 <key>Name</key>
@@ -1597,7 +1800,7 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>16115</string>
+                <string>16195</string>
                 <key>className</key>
                 <string>PTModelObjectLabel</string>
                 <key>Name</key>
@@ -1728,6 +1931,905 @@
                 </dict>
                 <key>zDepth</key>
                 <string>8</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16204</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Default Font</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,345.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array>
+                        <dict>
+                            <key>state</key>
+                            <string>0</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                    <string>{0.667,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                        <dict>
+                            <key>state</key>
+                            <string>1</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.333,0.000}</string>
+                                    <string>{0.250,-0.250}</string>
+                                    <string>{1.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                    </array>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreDistance</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreBest</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Next</string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
+                <key>zDepth</key>
+                <string>6</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16205</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Default Font</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,807.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array>
+                        <dict>
+                            <key>state</key>
+                            <string>0</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                    <string>{0.667,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                        <dict>
+                            <key>state</key>
+                            <string>1</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.333,0.000}</string>
+                                    <string>{0.250,-0.250}</string>
+                                    <string>{1.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                    </array>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreDistance</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreBest</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Go Again</string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
+                <key>zDepth</key>
+                <string>7</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16206</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Default Font</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1085.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array>
+                        <dict>
+                            <key>state</key>
+                            <string>0</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                    <string>{0.667,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                        <dict>
+                            <key>state</key>
+                            <string>1</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.333,0.000}</string>
+                                    <string>{0.250,-0.250}</string>
+                                    <string>{1.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                    </array>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreDistance</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreBest</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Menu</string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>8</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16215</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Default Font</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,345.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array>
+                        <dict>
+                            <key>state</key>
+                            <string>0</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                    <string>{0.667,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                        <dict>
+                            <key>state</key>
+                            <string>1</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.333,0.000}</string>
+                                    <string>{0.250,-0.250}</string>
+                                    <string>{1.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                    </array>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreDistance</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreBest</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Next</string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
+                <key>zDepth</key>
+                <string>6</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16216</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Default Font</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,807.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array>
+                        <dict>
+                            <key>state</key>
+                            <string>0</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                    <string>{0.667,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                        <dict>
+                            <key>state</key>
+                            <string>1</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.333,0.000}</string>
+                                    <string>{0.250,-0.250}</string>
+                                    <string>{1.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                    </array>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreDistance</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreBest</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Go Again</string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
+                <key>zDepth</key>
+                <string>7</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16217</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Default Font</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,1085.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array>
+                        <dict>
+                            <key>state</key>
+                            <string>0</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                    <string>{0.667,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                        <dict>
+                            <key>state</key>
+                            <string>1</string>
+                            <key>animation</key>
+                            <dict>
+                                <key>points</key>
+                                <array>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.000,0.000}</string>
+                                    <string>{0.333,0.000}</string>
+                                    <string>{0.250,-0.250}</string>
+                                    <string>{1.000,-1.000}</string>
+                                    <string>{-1.000,-1.000}</string>
+                                </array>
+                                <key>preset</key>
+                                <string>4</string>
+                            </dict>
+                        </dict>
+                    </array>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreDistance</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreBest</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Menu</string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>2</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>zDepth</key>
+                <string>8</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>16231</string>
+                <key>className</key>
+                <string>PTModelObjectLabel</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Default Font</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,220.327}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Action</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kCustomVector</string>
+                </dict>
+                <key>World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kGlobal</string>
+                </dict>
+                <key>Score Type</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreDistance</string>
+                </dict>
+                <key>Amount</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kScoreBest</string>
+                </dict>
+                <key>Alignment</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kCCTextAlignmentLeft</string>
+                </dict>
+                <key>Text</key>
+                <dict>
+                    <key>value</key>
+                    <string>Incipia Games</string>
+                </dict>
+                <key>Font</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>16232</string>
+                </dict>
+                <key>Tracking</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>1</string>
+                <key>calculatedSize</key>
+                <string>{441.000,72.000}</string>
             </dict>
         </array>
     </dict>

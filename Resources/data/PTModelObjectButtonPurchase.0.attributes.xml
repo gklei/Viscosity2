@@ -1516,19 +1516,10 @@
                         </dict>
                     </array>
                 </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.300,0.300}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1539,11 +1530,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Powerup Selection</key>
                 <dict>
@@ -1580,8 +1566,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Buy And Use</key>
                 <dict>
@@ -1736,19 +1720,10 @@
                         </dict>
                     </array>
                 </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.300,0.300}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1759,11 +1734,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Powerup Selection</key>
                 <dict>
@@ -1800,8 +1770,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Buy And Use</key>
                 <dict>
@@ -2160,19 +2128,10 @@
                         </dict>
                     </array>
                 </dict>
-                <key>Rotation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.300,0.300}</string>
-                    <key>animationsX</key>
-                    <array/>
-                    <key>animationsY</key>
-                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2183,11 +2142,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                </dict>
-                <key>Opacity</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Powerup Selection</key>
                 <dict>
@@ -2224,8 +2178,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Buy And Use</key>
                 <dict>
